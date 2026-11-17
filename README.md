@@ -16,5 +16,5 @@ cd C:\xampp\htdocs\
 ```
 2. clone repositori dengan perintah cmd di bawah ini
 ```cmd
-git clone https://github.com/muhammadedlinperkasaalam/wa-gateway.git
+https://github.com/muhammadedlinperkasaalam/kasir.git
 ```
